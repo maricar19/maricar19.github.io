@@ -1,0 +1,14 @@
+#footer{
+	width:100%;
+	height:40px;
+	margin-top:290px;
+	border:1px solid black;
+	background-color:black;
+	float:left;
+	display:flex;
+	
+}
+.foe{
+	text-align:center;
+	color:white;
+}

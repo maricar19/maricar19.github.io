@@ -1,0 +1,104 @@
+.icons{
+		float:right;
+		margin-left:30px;
+		margin-top:7px;
+}
+
+.icons img{
+		width:28px;
+		height:28px;
+		margin-top:7px;
+		margin-left:5px;
+		float:right;
+}
+
+#homepage{
+		width:100%;
+		height:100%;
+		display:flex;
+		margin-top:60px;
+ }
+.about a{
+		color:white;
+		padding:10px;
+		margin-bottom:5px;
+		text-align:center;
+		font-size:15px;
+		font-family:Century Gothic;
+		background-color:black;
+		width:80%;
+		margin:auto;
+		position:absolute;
+		padding:15px;
+		text-decoration:none;
+}
+.about:hover a{
+		background-color:black;
+		opacity:10;
+		color:cyan;
+		font-family:Century Gothic;
+		
+}
+#arrow{
+		float:right;
+}
+.arrow-up{
+		float:right;
+		position:fixed;
+		margin-left:1290px;
+		margin-top:500px;
+}
+.angelia{
+		font-family:Proxy 1;
+		font-size:50px;
+		margin-top:10px;
+		position:fixed;
+		letter-spacing:5px;
+}
+#second-top{
+		margin-top:-30px;
+		
+		}
+#navigator{
+	font-family:Century Gothic;
+}
+#navigator a:hover{
+	color:cyan;
+	font-family:Century Gothic;
+	opacity:0.8;
+}
+#slider{
+	margin-top:15px;
+	width:100%;
+}
+#main{
+	margin-top:10px;
+}
+#logo{
+	margin:auto;
+	margin-top:70px;
+	display:block;
+}
+#hey{
+	margin-left:10px;
+	margin-top:-70px;
+	opacity:0.7;	
+}
+#backimg{
+	border-color:white;
+	margin-top:-25px;
+}
+
+#maricar{
+	width:410px;
+	height:250px;
+	margin-top:20px;
+	margin-top:10px;
+}
+#maricar1{
+	height:250px;
+	margin-top:20px;
+	margin-top:10px;
+	width:410px;
+
+}
